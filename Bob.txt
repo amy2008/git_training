@@ -1,2 +1,6 @@
 What you've just done is add the file to your Working Directory.
 There's two kinds of files in your Working Directory: tracked files that git knows about and untracked files that git doesn't know about (yet). 
+
+Hi!
+I'm Bob, I'm new here.
+
