@@ -4,3 +4,4 @@ There's two kinds of files in your Working Directory: tracked files that git kno
 Hi!
 I'm Bob, I'm new here.
 add this on master branch
+edit Bob to practise merging branch 
