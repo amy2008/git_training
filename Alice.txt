@@ -1,6 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 add a new branch change_alice, we want to update it.
 practise rebase
-Alice, I'm mater to edit this file, and add a branch fetching_changes_sample
+Alice, I'm mater to edit this file, and add a branch fetching_changes_sample, I add another test as below.
 Edit it locally 
  Pulling with Conflicts, git pull and git fetch.
